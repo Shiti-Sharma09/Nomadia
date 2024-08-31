@@ -239,7 +239,7 @@ a:hover {
 .overlap-1 {
     height: 385px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("/imgg/greece.png");
+        url("greece.png");
     background-size: cover;
     background-position: 50% 50%;
     transition: all 1s;
@@ -248,7 +248,7 @@ a:hover {
 .overlap-2 {
     height: 385px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("/imgg/japan.png");
+        url("japan.png");
     background-size: cover;
     background-position: 50% 50%;
     transition: all 1s;
@@ -257,7 +257,7 @@ a:hover {
 .overlap-3 {
     height: 385px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("/imgg/south_africa.png");
+        url("south_africa.png");
     background-size: cover;
     background-position: 50% 50%;
     transition: all 1s;
