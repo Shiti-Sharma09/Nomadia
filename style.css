@@ -14,7 +14,7 @@
 .heropage {
     min-width: 100%;
     min-height: 100vh;
-    background-image: url("imgg/heroimg.png");
+    background-image: url("heroimg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
